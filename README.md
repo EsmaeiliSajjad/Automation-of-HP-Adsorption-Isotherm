@@ -57,7 +57,6 @@ LabView computer coding software is used here to write the complicated core for 
 Fig. 3: LabView code for the automation software including control, monitor, and store data in formatted data file. 
 
 In order to read and convert digital data to meaningful values, you should be familiar with buffer read and write concepts. The followings are some of the highlighted parts of the software:
-
 1. Involving more than 45 sub-functions.
 2. Capable of running continuously until the measurement is done, e.g. three days of continuous data logging.
 3. Capable of switching from auto-mode to manual-mode.
